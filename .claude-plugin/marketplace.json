@@ -1,0 +1,13 @@
+{
+  "name": "truereturn",
+  "description": "TrueReturn: rewrite drafts in your own voice.",
+  "owner": { "name": "TrueReturn", "url": "https://checktruereturn.com" },
+  "plugins": [
+    {
+      "name": "truereturn",
+      "source": "./",
+      "description": "Rewrite drafts in your own voice. Adds /rewrite, /train and /voice.",
+      "version": "1.0.0"
+    }
+  ]
+}
