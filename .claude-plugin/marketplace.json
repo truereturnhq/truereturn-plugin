@@ -6,8 +6,8 @@
     {
       "name": "truereturn",
       "source": "./",
-      "description": "Rewrite drafts in your own voice. Adds /rewrite, /train and /voice.",
-      "version": "1.0.0"
+      "description": "Rewrite drafts in your own voice. Adds /rewrite, /like, /train, /voice, /voices, /history, /edit and /account.",
+      "version": "1.1.0"
     }
   ]
 }

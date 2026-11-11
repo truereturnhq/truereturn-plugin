@@ -8,6 +8,11 @@ Rewrite drafts so they sound like you. Adds three commands and connects the
 | `/rewrite <text>` | Rewrites a draft in your voice, keeping names, numbers and dates |
 | `/train <text>` | Adds writing you wrote yourself so rewrites sound like you |
 | `/voice` | Describes how you write |
+| `/like <who> <text>` | Rewrites a draft so it sounds like someone you name |
+| `/voices` | Lists the voices you can rewrite in |
+| `/history` | Shows your recent rewrites |
+| `/edit <text>` | Saves the version you sent so your voice learns from it |
+| `/account` | Shows your plan and usage |
 
 ## Claude Code
 

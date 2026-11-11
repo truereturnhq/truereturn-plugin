@@ -1,8 +1,8 @@
 {
   "name": "truereturn",
   "displayName": "TrueReturn",
-  "version": "1.0.0",
-  "description": "Rewrite drafts in your own voice. Adds /rewrite, /train and /voice.",
+  "version": "1.1.0",
+  "description": "Rewrite drafts in your own voice. Adds /rewrite, /like, /train, /voice, /voices, /history, /edit and /account.",
   "author": { "name": "TrueReturn", "url": "https://checktruereturn.com" },
   "homepage": "https://checktruereturn.com/developers",
   "license": "MIT",
